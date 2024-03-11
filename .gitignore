@@ -3,3 +3,4 @@ node_modules
 *.internal
 
 # Ignore the build directory
+envVariables.txt
